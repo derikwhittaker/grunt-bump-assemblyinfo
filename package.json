@@ -1,0 +1,38 @@
+{
+  "name": "grunt-bump-assemblyinfo",
+  "description": "Grunt plugin to bump the version entry inside an assembly info file",
+  "version": "0.0.1",
+  "homepage": "https://github.com/derikwhittaker/grunt-bump-assemblyinfo",
+  "author": {
+    "name": "Derik Whittaker",
+    "email": "derik@graudo.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/derikwhittaker/grunt-bump-assemblyinfo"
+  },
+  "bugs": {
+    "url": "https://github.com/derikwhittaker/grunt-bump-assemblyinfo/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/derikwhittaker/grunt-bump-assemblyinfo/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "underscore": "~1.6.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.4"
+  },
+  "keywords": [
+    "DotNet",
+    "AssemblyInfo",
+    "Bump"
+  ]
+}
